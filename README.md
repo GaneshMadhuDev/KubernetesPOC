@@ -21,6 +21,8 @@ Benefits of pod ? ->
 
 Statefulset in kubernetes ? ->
 
+How to rollback a Deployment ? ->
+
 what happens when a master fails & worker fails ?->
 
 what are namespaces ? ->
