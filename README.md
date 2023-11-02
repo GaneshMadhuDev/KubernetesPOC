@@ -28,4 +28,10 @@ what happens when a master fails & worker fails ?->
 what are namespaces ? ->
 
 
+Create a Namespace
+The following command is used to create a namespace.
 
+apiVersion: v1
+kind: Namespce
+metadata
+   name: elk
