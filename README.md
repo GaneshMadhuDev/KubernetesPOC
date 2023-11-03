@@ -35,3 +35,24 @@ apiVersion: v1
 kind: Namespce
 metadata
    name: elk
+
+
+
+Features of Kubernetes
+Following are some of the important features of Kubernetes.
+
+Continues development, integration and deployment
+
+Containerized infrastructure
+
+Application-centric management
+
+Auto-scalable infrastructure
+
+Environment consistency across development testing and production
+
+Loosely coupled infrastructure, where each component can act as a separate unit
+
+Higher density of resource utilization
+
+Predictable infrastructure which is going to be created
